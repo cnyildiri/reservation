@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ee/+BcaeKdYK2taamR3Kd8mGPwgjBGF0H7gqDWZUvIWEHyXc8kFA9e1HZ/p7lAVm137y8qc9YmPazDlgSBtcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cihan\\source1\\repos\\dur2\\reservations-mdandrea123-master\\ReservationsAPI\\ReservationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
